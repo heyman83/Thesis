@@ -1,0 +1,7 @@
+# Copy this file and set an absolute dataset root on your computer.
+path: C:/path/to/dataset
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: Landmines-pfm1
