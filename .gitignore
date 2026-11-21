@@ -21,3 +21,12 @@ gpu-verification.json
 *.key
 .vscode/
 .idea/
+session_logs/
+Version2/
+images_output/
+outputs/
+robot-session-logs/
+venv/
+console.log
+detector.pid
+!models/camera_finetuned.pt

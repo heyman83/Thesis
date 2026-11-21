@@ -1,0 +1,7 @@
+# Install inside a Python 3.10+ ARM64 venv with ROS system packages visible.
+# Separate from the Windows/CUDA training lock file.
+numpy==1.26.4
+opencv-python==4.11.0.86
+torch==2.7.1
+torchvision==0.22.1
+ultralytics==8.4.211
